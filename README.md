@@ -218,8 +218,7 @@ Add your screenshots inside a `docs/screenshots/` folder and update the paths be
 
 ### Dashboard
 
-
-![](docs/dashboard3.png)
+![](docs/Dashboard3.png)
 
 
 ## Future Improvements
