@@ -210,31 +210,19 @@ Add your screenshots inside a `docs/screenshots/` folder and update the paths be
 ### Login Page
 
 ```md
-![Login Page](docs/screenshots/login.png)
+![L](docs/Dashboard1.png)
 ```
 
 ### Register Page
 
 ```md
-![Register Page](docs/screenshots/register.png)
+![Register Page](docs/Dashboard2.png)
 ```
 
 ### Dashboard
 
 ```md
-![Dashboard](docs/screenshots/dashboard.png)
-```
-
-### Transaction Management
-
-```md
-![Transaction Management](docs/screenshots/transactions.png)
-```
-
-### Budget Status
-
-```md
-![Budget Status](docs/screenshots/budget-status.png)
+![Dashboard](docs/dashboard3.png)
 ```
 
 ## Future Improvements
